@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Building fullstack projects with TypeScript and Next.js.<br>Knowledge in Java, Spring Boot, GCP. <br>Intern at GESHDO<br>Love side projects and discussing ideas<br>Balancing a digital presence with an active lifestyle<br>
  
 
